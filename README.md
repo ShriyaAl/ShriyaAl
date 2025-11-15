@@ -1,22 +1,27 @@
 # Hi, I'm Shriya! 👋
 
-Welcome to my GitHub! I'm a tech enthusiast deeply invested in **AI**, **Machine Learning**, **Data Science**, and **Fullstack Development**. I enjoy building intelligent systems, deriving insights from data, and creating seamless web applications that make an impact.
+Welcome to my Github! Technology has always fascinated me — the way it transforms industries and solves real-world problems leaves me in awe every single time. As a student passionate about this ever-evolving field, I’m constantly learning, experimenting, and trying to become more well-rounded.
+
+I’m deeply interested in AI, Machine Learning, Data Science, and Fullstack Development. I enjoy building intelligent systems, uncovering meaningful insights from data, and crafting seamless applications that make an actual impact.
 
 ---
 
 ## 🌟 About Me
 
-- 🤖 **AI & ML:** Passionate about designing neural networks, exploring NLP, and developing models that solve real-world problems.  
-- 📊 **Data Science:** Skilled at transforming datasets into meaningful insights through analysis and visualization.  
-- 🧑‍💻 **Fullstack Development:** Experienced in crafting user-friendly frontends and robust backends for end-to-end solutions.  
+🤖 **AI & ML Enthusiast**: I'm currently exploring machine learning and NLP. I love experimenting with models, understanding how they work internally, and building hands-on projects that solve real problems.
+
+📊 **Growing Data Scientist**: I enjoy working with data, cleaning it, analyzing it, and turning it into visualizations. 
+
+🧑‍💻 **Aspiring Full-Stack Developer**: I’m learning to build complete applications, from intuitive frontends to reliable backends. 
+
 ---
 
 ## 🚀 What I’m Working On
 
-- Building **AI-driven projects** like predictive models and intelligent chatbots  
-- Creating **data visualizations** to communicate insights clearly and effectively  
-- Developing **fullstack applications** with intuitive interfaces and scalable backends  
-- Experimenting with new libraries and frameworks to **push my skills further**
+- Building AI-driven projects like predictive models and intelligent chatbots  
+- Creating data visualizations to communicate insights clearly and effectively  
+- Developing fullstack applications with intuitive interfaces and scalable backends  
+- Experimenting with new libraries and frameworks to push my skills further
 
 ---
 
@@ -59,8 +64,6 @@ Welcome to my GitHub! I'm a tech enthusiast deeply invested in **AI**, **Machine
 
 ## 📈 GitHub Stats
 
-
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShriyaAl&show_icons=true&theme=transparent&hide_title=true" alt="GitHub Stats" /></p>
   
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ShriyaAl&theme=transparent&hide_border=false" alt="GitHub Streaks" /></p>
 
@@ -74,7 +77,6 @@ Welcome to my GitHub! I'm a tech enthusiast deeply invested in **AI**, **Machine
 ## 📫 Let’s Connect
 
 Feel free to reach out and collaborate!  
-**“The best code tells a story — and I’m here to write the next chapter.”**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriya-alladi-6321b5286/)           [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alladishriya05@gmail.com)
 
